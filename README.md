@@ -1,0 +1,5 @@
+![image alt](https://github.com/YigitTabak/Social-Media-App/blob/master/assets/Home.png?raw=true)
+![image alt](https://github.com/YigitTabak/Social-Media-App/blob/master/assets/Detail.png?raw=true)
+![image alt](https://github.com/YigitTabak/Social-Media-App/blob/master/assets/Create.png?raw=true)
+![image alt](https://github.com/YigitTabak/Social-Media-App/blob/master/assets/Communities.png?raw=true)
+![image alt](https://github.com/YigitTabak/Social-Media-App/blob/master/assets/Resp.png?raw=true)
